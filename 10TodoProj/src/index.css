@@ -1,7 +1,6 @@
 @import "tailwindcss";
-@custom-variant dark (&:where(.dark, .dark *));  /* dark mode */
 
-:root {
+root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
